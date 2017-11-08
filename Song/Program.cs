@@ -73,7 +73,7 @@ namespace Song
             }
         }
 
-        private static void LoggestSong()
+        private static void LogestSong()
         {
             throw new NotImplementedException();
         }
